@@ -4,12 +4,12 @@
 
 链接到此处以查看更多：[https://cloud-inspired.goosebt.com:9090/home.html](https://cloud-inspired.goosebt.com:9090/home.html)
 
-版权声明：我们不拥有链接中任何音乐的版权。
+版权声明：我们不拥有链接中任何音乐文件的版权。
 
 # Inspired-Music
 
-Inspired Music proposed by Cloud-inspired Music Team, GooseBt, Universe.  
+Inspired Music proposed by the Cloud-inspired Music Team, GooseBt, Universe. 
 
 Link to this website to see more: [https://cloud-inspired.goosebt.com:9090/home.html](https://cloud-inspired.goosebt.com:9090/home.html)
 
-Declarement: We do not own the music in the link. 
+Declarement: We do not own the music files in the link. 
