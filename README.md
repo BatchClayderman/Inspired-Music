@@ -4,8 +4,12 @@
 
 链接到此处以查看更多：[https://cloud-inspired.goosebt.com:9090/home.html](https://cloud-inspired.goosebt.com:9090/home.html)
 
+版权声明：我们不拥有演奏版中音乐的权利。
+
 # Inspired-Music
 
 Inspired Music proposed by Cloud-inspired Music Team, GooseBt, Universe.  
 
 Link to this website to see more: [https://cloud-inspired.goosebt.com:9090/home.html](https://cloud-inspired.goosebt.com:9090/home.html)
+
+Declarement: We do not own the music in the Concert Version folder. 
