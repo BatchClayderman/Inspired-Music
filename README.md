@@ -2,9 +2,11 @@
 
 This project stores the inspired music proposed by the Cloud-inspired Music Team, GooseBt Studio, Universe Organization. 
 
-Link to this website to see more: [https://goosebt.com:9002/home.html](https://goosebt.com:9002/home.html)
+Please kindly link to [this website](https://goosebt.com:9002/home.html) to view more. 
 
-Declarement: We do not own the video or audio files in the link. 
+Declarement: We do not own the video or audio files. 
+
+The OVE files are provided under the GPL-3.0 license. 
 
 ---
 
@@ -14,4 +16,6 @@ Declarement: We do not own the video or audio files in the link.
 
 链接到此处以查看更多：[https://goosebt.com:9002/home.html](https://goosebt.com:9002/home.html)
 
-版权声明：我们不拥有链接中任何视频文件和音乐文件的版权。
+版权声明：我们不拥有任何视频文件和音乐文件的版权。
+
+本项目中的 ove 文件在 GNU 通用公共许可证 v3.0 下发布。
