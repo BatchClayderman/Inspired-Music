@@ -14,7 +14,7 @@ The OVE files are provided under the GPL-3.0 license.
 
 本项目为星空超越驱动研究工作室云启发音乐团队索引的启发式音乐。
 
-链接到此处以查看更多：[https://goosebt.com:9002/home.html](https://goosebt.com:9002/home.html)
+链接到[此处](https://goosebt.com:9002/home.html)以查看更多。
 
 版权声明：我们不拥有任何视频文件和音乐文件的版权。
 
